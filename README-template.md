@@ -113,3 +113,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+![image](https://github.com/user-attachments/assets/aa2a5053-f0f9-4177-8176-7523d1cf3dba)
+
+JUan josé Gómez Saavedra
+https://dsaw-2025-i.github.io/item-list-gomsago/
+
